@@ -1,0 +1,4 @@
+operacion|consultar_comprobante|
+tipo_de_comprobante|2|
+serie|B001|
+numero|1|

@@ -1,0 +1,6 @@
+operacion|generar_anulacion|
+tipo_de_comprobante|1|
+serie|F001|
+numero|1|
+motivo|ERROR DEL SISTEMA|
+codigo_unico||
