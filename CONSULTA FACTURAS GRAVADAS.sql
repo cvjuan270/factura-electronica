@@ -51,6 +51,7 @@ DECLARE @tabla_personalizada_codigo nvarchar (250)
 DECLARE @formato_de_pdf nvarchar (5)
 */
 
+
 DECLARE @FACTURA_NC_ND_BOLETA TABLE (
 	operacion nchar (12),
 	tipo_de_comprobante Integer,
@@ -100,9 +101,33 @@ DECLARE @FACTURA_NC_ND_BOLETA TABLE (
 	tabla_personalizada_codigo nvarchar(250),
 	formato_de_pdf nvarchar(5)
 	)
+	/*NUMERO DE DOCUMENTO*/
+	DECLARE @DOCNUM INT
+	SET @DOCNUM = 3610
 
-	
+	/*MONEDA*/
+
+	declare @MONEDA nchar(5)
+	declare @MONEDATXT integer
+
+	SET @MONEDA = (SELECT DocCur FROM OINV WHERE DocNum = @DOCNUM)
+	IF(@MONEDA = 'S/')
+		BEGIN
+		SET @MONEDATXT = 1
+		END
+		ELSE
+		BEGIN
+		SET @MONEDATXT=2
+		END
+	/********************/
+
+	--SELECT * FROM OINV WHERE DocNum = @DOCNUM
 	SELECT 'Generar_comprobante',1,t0.FolioPref,t0.FolioNum,1,6,t0.LicTradNum,t0.CardName,t0.Address,
-			T1.E_Mail,'','',convert(varchar,t0.DocDate,(103)),convert(varchar,t0.DocDueDate,(103))
+			T1.E_Mail,'','',convert(varchar,t0.DocDate,(103)),convert(varchar,t0.DocDueDate,(103)),@MONEDATXT,
+			convert(numeric(12,2),T0.DocRate),18.00,t0.DiscSum,t0.DiscSum,0.00,convert(numeric(12,2),t0.DocTotal-(VatSum-DiscSum)),
+			0.00,0.00,convert(numeric(12,2),t0.VatSum),0.00,0.00,convert(numeric(12,2),t0.DocTotal),null,null,null,null,null,null,null,null,null,null,null,
+			'true','false',null,t2.PymntGroup,null,null,t0.NumAtCard,null,null
+
 	FROM OINV t0 INNER JOIN OCRD T1 ON T0.CardCode = T1.CardCode
-	WHERE DocNum = 3610
+		inner join OCTG t2 on t2.GroupNum = t0.GroupNum
+	WHERE DocNum = @DOCNUM
