@@ -1,0 +1,17 @@
+C:\Users\Juan\Desktop\FT ELECTRONICA\APP\Dv_Inversiones\Dv_Inversiones\bin\Debug\Dv_Inversiones.exe.config
+C:\Users\Juan\Desktop\FT ELECTRONICA\APP\Dv_Inversiones\Dv_Inversiones\bin\Debug\Dv_Inversiones.exe
+C:\Users\Juan\Desktop\FT ELECTRONICA\APP\Dv_Inversiones\Dv_Inversiones\bin\Debug\Dv_Inversiones.pdb
+C:\Users\Juan\Desktop\FT ELECTRONICA\APP\Dv_Inversiones\Dv_Inversiones\obj\Debug\Dv_Inversiones.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Desktop\FT ELECTRONICA\APP\Dv_Inversiones\Dv_Inversiones\obj\Debug\MainWindow.g.cs
+C:\Users\Juan\Desktop\FT ELECTRONICA\APP\Dv_Inversiones\Dv_Inversiones\obj\Debug\App.g.cs
+C:\Users\Juan\Desktop\FT ELECTRONICA\APP\Dv_Inversiones\Dv_Inversiones\obj\Debug\Dv_Inversiones_MarkupCompile.cache
+C:\Users\Juan\Desktop\FT ELECTRONICA\APP\Dv_Inversiones\Dv_Inversiones\obj\Debug\Dv_Inversiones_MarkupCompile.lref
+C:\Users\Juan\Desktop\FT ELECTRONICA\APP\Dv_Inversiones\Dv_Inversiones\obj\Debug\MainWindow.baml
+C:\Users\Juan\Desktop\FT ELECTRONICA\APP\Dv_Inversiones\Dv_Inversiones\obj\Debug\Dv_Inversiones.g.resources
+C:\Users\Juan\Desktop\FT ELECTRONICA\APP\Dv_Inversiones\Dv_Inversiones\obj\Debug\Dv_Inversiones.Properties.Resources.resources
+C:\Users\Juan\Desktop\FT ELECTRONICA\APP\Dv_Inversiones\Dv_Inversiones\obj\Debug\Dv_Inversiones.csproj.GenerateResource.Cache
+C:\Users\Juan\Desktop\FT ELECTRONICA\APP\Dv_Inversiones\Dv_Inversiones\obj\Debug\Dv_Inversiones.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\FT ELECTRONICA\APP\Dv_Inversiones\Dv_Inversiones\obj\Debug\Dv_Inversiones.exe
+C:\Users\Juan\Desktop\FT ELECTRONICA\APP\Dv_Inversiones\Dv_Inversiones\obj\Debug\Dv_Inversiones.pdb
+C:\Users\Juan\Desktop\FT ELECTRONICA\APP\Dv_Inversiones\Dv_Inversiones\bin\Debug\MiLibreria.dll
+C:\Users\Juan\Desktop\FT ELECTRONICA\APP\Dv_Inversiones\Dv_Inversiones\bin\Debug\MiLibreria.pdb

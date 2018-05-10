@@ -1,0 +1,47 @@
+operacion|Generar_comprobante|
+tipo_de_comprobante|1|
+serie|01|
+numero|433|
+sunat_transaction|1|
+cliente_tipo_de_documento|6|
+cliente_numero_de_documento|20498630392|
+cliente_denominacion|BUILD AND BUSINESS MURILLO SAC|
+cliente_direccion|PJ. TRONCO DE ORO NRO. 107    AREQUIPA - YANAHUARA|
+cliente_email||
+cliente_email_1||
+cliente_email_2||
+fecha_de_emision|12/10/2016|
+fecha_de_vencimiento|12/11/2016|
+moneda|1|
+tipo_de_cambio|1.00|
+porcentaje_de_igv|18.00|
+descuento_global|0.00|
+total_descuento|0.00|
+total_anticipo|0.00|
+total_gravada|1029.66|
+total_inafecta|0.00|
+total_exonerada|0.00|
+total_igv|185.34|
+total_gratuita|0.00|
+total_otros_cargos|0.00|
+total|1215.00|
+percepcion_tipo||
+percepcion_base_imponible||
+total_percepcion||
+total_incluido_percepcion||
+detraccion||
+observaciones||
+documento_que_se_modifica_tipo||
+documento_que_se_modifica_serie||
+documento_que_se_modifica_numero||
+tipo_de_nota_de_credito||
+tipo_de_nota_de_debito||
+enviar_automaticamente_a_la_sunat|true |
+enviar_automaticamente_al_cliente|false|
+codigo_unico||
+condiciones_de_pago|Crédito a 30 días|
+medio_de_pago||
+placa_vehiculo||
+orden_compra_servicio||
+tabla_personalizada_codigo||
+formato_de_pdf||

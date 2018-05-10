@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dv_Inversiones", "Dv_Inversiones\Dv_Inversiones.csproj", "{2D870F75-99DA-4CB1-A28C-0D23AAB7B4C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiLibreria", "MiLibreria\MiLibreria.csproj", "{C03B7339-6C07-40FB-AE45-B5E8FF06D9A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D870F75-99DA-4CB1-A28C-0D23AAB7B4C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D870F75-99DA-4CB1-A28C-0D23AAB7B4C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D870F75-99DA-4CB1-A28C-0D23AAB7B4C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D870F75-99DA-4CB1-A28C-0D23AAB7B4C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C03B7339-6C07-40FB-AE45-B5E8FF06D9A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C03B7339-6C07-40FB-AE45-B5E8FF06D9A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C03B7339-6C07-40FB-AE45-B5E8FF06D9A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C03B7339-6C07-40FB-AE45-B5E8FF06D9A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B744E4B8-F7A5-49F0-A26E-23150614E527}
+	EndGlobalSection
+EndGlobal
