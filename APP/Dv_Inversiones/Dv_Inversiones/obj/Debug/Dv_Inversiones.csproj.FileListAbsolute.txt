@@ -15,3 +15,47 @@ C:\Users\Juan\Desktop\FT ELECTRONICA\APP\Dv_Inversiones\Dv_Inversiones\obj\Debug
 C:\Users\Juan\Desktop\FT ELECTRONICA\APP\Dv_Inversiones\Dv_Inversiones\obj\Debug\Dv_Inversiones.pdb
 C:\Users\Juan\Desktop\FT ELECTRONICA\APP\Dv_Inversiones\Dv_Inversiones\bin\Debug\MiLibreria.dll
 C:\Users\Juan\Desktop\FT ELECTRONICA\APP\Dv_Inversiones\Dv_Inversiones\bin\Debug\MiLibreria.pdb
+C:\Users\Juan\Desktop\FT ELECTRONICA\APP\DV_INVERSIONES\Dv_Inversiones\obj\Debug\DashBoard.g.cs
+C:\Users\Juan\Desktop\FT ELECTRONICA\APP\DV_INVERSIONES\Dv_Inversiones\obj\Debug\DashBoard.baml
+C:\Users\Juan\Desktop\FT ELECTRONICA\APP\DV_INVERSIONES\Dv_Inversiones\bin\Debug\MaterialDesignColors.dll
+C:\Users\Juan\Desktop\FT ELECTRONICA\APP\DV_INVERSIONES\Dv_Inversiones\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Juan\Desktop\FT ELECTRONICA\APP\DV_INVERSIONES\Dv_Inversiones\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Juan\Desktop\FT ELECTRONICA\APP\DV_INVERSIONES\Dv_Inversiones\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Juan\Desktop\FT ELECTRONICA\APP\DV_INVERSIONES\Dv_Inversiones\obj\Debug\App.baml
+C:\Users\Juan\Desktop\FT ELECTRONICA\APP\DV_INVERSIONES\Dv_Inversiones\obj\Debug\UserControlCreate.g.cs
+C:\Users\Juan\Desktop\FT ELECTRONICA\APP\DV_INVERSIONES\Dv_Inversiones\obj\Debug\UserControlHome.g.cs
+C:\Users\Juan\Desktop\FT ELECTRONICA\APP\DV_INVERSIONES\Dv_Inversiones\obj\Debug\UserControlCreate.baml
+C:\Users\Juan\Desktop\FT ELECTRONICA\APP\DV_INVERSIONES\Dv_Inversiones\obj\Debug\UserControlHome.baml
+C:\Users\Juan\Desktop\FT ELECTRONICA\APP\DV_INVERSIONES\Dv_Inversiones\obj\Debug\UserControlFactElec.g.cs
+C:\Users\Juan\Desktop\FT ELECTRONICA\APP\DV_INVERSIONES\Dv_Inversiones\obj\Debug\UserControlFactElec.baml
+D:\Dv_Inversiones\Dv_Inversiones\bin\Debug\Dv_Inversiones.exe.config
+D:\Dv_Inversiones\Dv_Inversiones\bin\Debug\Dv_Inversiones.exe
+D:\Dv_Inversiones\Dv_Inversiones\bin\Debug\Dv_Inversiones.pdb
+D:\Dv_Inversiones\Dv_Inversiones\bin\Debug\MaterialDesignColors.dll
+D:\Dv_Inversiones\Dv_Inversiones\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Dv_Inversiones\Dv_Inversiones\bin\Debug\MiLibreria.dll
+D:\Dv_Inversiones\Dv_Inversiones\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Dv_Inversiones\Dv_Inversiones\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Dv_Inversiones\Dv_Inversiones\bin\Debug\MiLibreria.pdb
+D:\Dv_Inversiones\Dv_Inversiones\obj\Debug\Dv_Inversiones.csprojResolveAssemblyReference.cache
+D:\Dv_Inversiones\Dv_Inversiones\obj\Debug\DashBoard.g.cs
+D:\Dv_Inversiones\Dv_Inversiones\obj\Debug\MainWindow.g.cs
+D:\Dv_Inversiones\Dv_Inversiones\obj\Debug\UserControlCreate.g.cs
+D:\Dv_Inversiones\Dv_Inversiones\obj\Debug\UserControlFactElec.g.cs
+D:\Dv_Inversiones\Dv_Inversiones\obj\Debug\UserControlHome.g.cs
+D:\Dv_Inversiones\Dv_Inversiones\obj\Debug\App.g.cs
+D:\Dv_Inversiones\Dv_Inversiones\obj\Debug\Dv_Inversiones_MarkupCompile.cache
+D:\Dv_Inversiones\Dv_Inversiones\obj\Debug\Dv_Inversiones_MarkupCompile.lref
+D:\Dv_Inversiones\Dv_Inversiones\obj\Debug\App.baml
+D:\Dv_Inversiones\Dv_Inversiones\obj\Debug\DashBoard.baml
+D:\Dv_Inversiones\Dv_Inversiones\obj\Debug\MainWindow.baml
+D:\Dv_Inversiones\Dv_Inversiones\obj\Debug\UserControlCreate.baml
+D:\Dv_Inversiones\Dv_Inversiones\obj\Debug\UserControlFactElec.baml
+D:\Dv_Inversiones\Dv_Inversiones\obj\Debug\UserControlHome.baml
+D:\Dv_Inversiones\Dv_Inversiones\obj\Debug\Dv_Inversiones.g.resources
+D:\Dv_Inversiones\Dv_Inversiones\obj\Debug\Dv_Inversiones.Properties.Resources.resources
+D:\Dv_Inversiones\Dv_Inversiones\obj\Debug\Dv_Inversiones.csproj.GenerateResource.Cache
+D:\Dv_Inversiones\Dv_Inversiones\obj\Debug\Dv_Inversiones.csproj.CoreCompileInputs.cache
+D:\Dv_Inversiones\Dv_Inversiones\obj\Debug\Dv_Inversiones.exe
+D:\Dv_Inversiones\Dv_Inversiones\obj\Debug\Dv_Inversiones.pdb
+C:\Users\Juan\Desktop\FT ELECTRONICA\APP\Dv_Inversiones\Dv_Inversiones\bin\Debug\RestSharp.dll

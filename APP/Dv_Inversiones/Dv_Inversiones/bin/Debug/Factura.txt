@@ -1,0 +1,56 @@
+operacion|generar_comprobante|
+tipo_de_comprobante|1|
+serie|F001|
+numero|3838|
+sunat_transaction|1|
+cliente_tipo_de_documento|6|
+cliente_numero_de_documento|20600548655|
+cliente_denominacion|SOCANE SAC|
+cliente_direccion|AV. AVIACION 616 CERRO COLORADO|
+cliente_email||
+cliente_email_1||
+cliente_email_2||
+fecha_de_emision|12/05/2018|
+fecha_de_vencimiento|27/05/2018|
+moneda|1|
+tipo_de_cambio|1.00|
+porcentaje_de_igv|18.00|
+descuento_global|0.00|
+total_descuento|0.00|
+total_anticipo|0.00|
+total_gravada|1067.18|
+total_inafecta|0.00|
+total_exonerada|0.00|
+total_igv|192.09|
+total_gratuita|0.00|
+total_otros_cargos|0.00|
+total|1259.27|
+percepcion_tipo||
+percepcion_base_imponible||
+total_percepcion||
+total_incluido_percepcion||
+detraccion||
+observaciones||
+documento_que_se_modifica_tipo||
+documento_que_se_modifica_serie||
+documento_que_se_modifica_numero||
+tipo_de_nota_de_credito||
+tipo_de_nota_de_debito||
+enviar_automaticamente_a_la_sunat|true |
+enviar_automaticamente_al_cliente|false|
+codigo_unico||
+condiciones_de_pago|Crédito a 15 días|
+medio_de_pago||
+placa_vehiculo||
+orden_compra_servicio||
+tabla_personalizada_codigo||
+formato_de_pdf||
+item|NIU|201060200|LENTE MOD ASTRO/NITRO HC CLARO|24.00|1.75|2.07|0.00|42.00|1|7.56|49.56|false|||
+item|NIU|201060201|LENTE MOD ASTRO/NITRO HC OSCURO|24.00|1.75|2.07|0.00|42.00|1|7.56|49.56|false|||
+item|NIU|201070252|TAPON DE OIDO LIBUS ESTUCHE P/CINTURON|20.00|0.88|1.04|0.00|17.60|1|3.17|20.77|false|||
+item|NIU|201020499|ARNES  DE 3 ANILLOS 3 HEBILLAS SPRO|4.00|55.68|65.70|0.00|222.72|1|40.09|262.81|false|||
+item|NIU|201020496|LINEA DE VIDA C/AMORT. C/ 2 GANCHOS GRANDES SPRO|4.00|85.84|101.29|0.00|343.36|1|61.80|405.16|false|||
+item|NIU|201050201|RESPIRADOR 3M 7502 Importado|5.00|38.14|45.01|0.00|190.70|1|34.33|225.03|false|||
+item|NIU|201010506|GUANTE MULTIPROPOSITO MULTIFLEX T-9|15.00|2.90|3.42|0.00|43.50|1|7.83|51.33|false|||
+item|NIU|201080325|TRAJE T/TYVEK DESCARTABLE MACROGUARD T-XL|30.00|5.51|6.50|0.00|165.30|1|29.75|195.05|false|||
+guia|1|01-4069|

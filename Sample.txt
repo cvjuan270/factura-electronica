@@ -1,30 +1,30 @@
 operacion|Generar_comprobante|
 tipo_de_comprobante|1|
 serie|01|
-numero|3814|
+numero|175|
 sunat_transaction|1|
 cliente_tipo_de_documento|6|
-cliente_numero_de_documento|20326764214|
-cliente_denominacion|AID INGENIEROS SAC|
-cliente_direccion|MZA. C LOTE. 5B URB. MAGISTERIAL   AREQUIPA - AREQUIPA - YANAHUARA|
+cliente_numero_de_documento|20498630392|
+cliente_denominacion|B & B MURILLO S.A.C|
+cliente_direccion|PJ. TRONCO DE ORO NRO. 107 AREQUIPA - AREQUIPA - YANAHUARA|
 cliente_email||
 cliente_email_1||
 cliente_email_2||
-fecha_de_emision|09/05/2018|
-fecha_de_vencimiento|09/07/2018|
+fecha_de_emision|02/09/2016|
+fecha_de_vencimiento|02/10/2016|
 moneda|1|
 tipo_de_cambio|1.00|
 porcentaje_de_igv|18.00|
 descuento_global|0.00|
 total_descuento|0.00|
 total_anticipo|0.00|
-total_gravada|2249.07|
+total_gravada|529.00|
 total_inafecta|0.00|
 total_exonerada|0.00|
-total_igv|404.83|
+total_igv|95.22|
 total_gratuita|0.00|
 total_otros_cargos|0.00|
-total|2653.90|
+total|624.22|
 percepcion_tipo||
 percepcion_base_imponible||
 total_percepcion||
@@ -39,21 +39,11 @@ tipo_de_nota_de_debito||
 enviar_automaticamente_a_la_sunat|true |
 enviar_automaticamente_al_cliente|false|
 codigo_unico||
-condiciones_de_pago|Crédito a 60 días|
+condiciones_de_pago|Crédito a 30 días|
 medio_de_pago||
 placa_vehiculo||
-orden_compra_servicio|63964|
+orden_compra_servicio|7210-2016|
 tabla_personalizada_codigo||
 formato_de_pdf||
-item|NIU|201080459|CHALECO DRILL NARANJA CINTA KOREANA CLASE II TS|4.00|24.00|28.32|0.00|96.00|1|17.28|113.28|false|||
-item|NIU|201080460|CHALECO DRILL NARANJA CINTA KOREANA CLASE II TM|8.00|24.00|28.32|0.00|192.00|1|34.56|226.56|false|||
-item|NIU|201080461|CHALECO DRILL NARANJA CINTA KOREANA CLASE II TL|8.00|24.00|28.32|0.00|192.00|1|34.56|226.56|false|||
-item|NIU|201080462|CHALECO DRILL NARANJA CINTA KOREANA CLASE II TXL|8.00|24.00|28.32|0.00|192.00|1|34.56|226.56|false|||
-item|NIU|201060205|LENTE MODELO SPY OSCURO|24.00|1.69|1.99|0.00|40.56|1|7.30|47.86|false|||
-item|NIU|201010043|GUANTE DE JEBE PROTEX C 35 T-9|20.00|6.91|8.15|0.00|138.20|1|24.88|163.08|false|||
-item|NIU|201080672|CONJUNTO DENIM  CINTA KOREANA  T/S|5.00|46.61|55.00|0.00|233.05|1|41.95|275.00|false|||
-item|NIU|201080673|CONJUNTO DENIM  CINTA KOREANA T/M|10.00|46.61|55.00|0.00|466.10|1|83.90|550.00|false|||
-item|NIU|201080674|CONJUNTO DENIM  CINTA KOREANA  T/L|10.00|46.61|55.00|0.00|466.10|1|83.89|549.99|false|||
-item|NIU|201080675|CONJUNTO DENIM  CINTA KOREANA T/XL|5.00|46.61|55.00|0.00|233.05|1|41.95|275.00|false|||
-guia101-4006
-guia101-4036
+item|NIU|201010002|GUANTE DE CUERO SUPER REFORZADO|100.00|5.29|6.24|0.00|529.00|1|95.22|624.22|false|||
+guia101-232

@@ -3,3 +3,4 @@ C:\Users\Juan\Desktop\FT ELECTRONICA\APP\Dv_Inversiones\MiLibreria\bin\Debug\MiL
 C:\Users\Juan\Desktop\FT ELECTRONICA\APP\Dv_Inversiones\MiLibreria\obj\Debug\MiLibreria.csproj.CoreCompileInputs.cache
 C:\Users\Juan\Desktop\FT ELECTRONICA\APP\Dv_Inversiones\MiLibreria\obj\Debug\MiLibreria.dll
 C:\Users\Juan\Desktop\FT ELECTRONICA\APP\Dv_Inversiones\MiLibreria\obj\Debug\MiLibreria.pdb
+C:\Users\Juan\Desktop\FT ELECTRONICA\APP\DV_INVERSIONES\MiLibreria\obj\Debug\MiLibreria.csprojResolveAssemblyReference.cache
